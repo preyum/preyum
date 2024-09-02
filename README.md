@@ -28,4 +28,4 @@
 
 ### My Creations
 - 💡 **Collaboard**: [github.com/preyum/Collaboard](https://github.com/preyum/Collaboard)
-- 💡 **Project 2**: [github.com/preyum/edtech](https://github.com/preyum/edtech)
+- 💡 **Scholarly**: [github.com/preyum/edtech](https://github.com/preyum/edtech)
