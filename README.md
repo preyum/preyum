@@ -25,7 +25,7 @@
 ────────────────────────────────────
 - **Backend**: Node.js, Express, MongoDB
 - **Auth Systems**: Cookies, Tokens, Sessions, Hashing
-- **Programming**: Java, JavaScript, Typescript
+- **Programming**: Java, JavaScript, TypeScript
 - **Version Control**: Git, GitHub
 - **Others**: Docker, Postman, Bash
 
@@ -36,18 +36,17 @@
 
 [Reach Out to Me]
 ────────────────────────────────────
-- GitHub: [(https://github.com/preyum)]
-- LinkedIn: [(https://www.linkedin.com/in/priyam-ghosh-61a22b216/)]
-- Email: [mfpriyam@gmail.com]
+- **GitHub**: [https://github.com/preyum]
+- **LinkedIn**: [https://www.linkedin.com/in/priyam-ghosh-61a22b216/]
+- **Email**: mfpriyam@gmail.com
 
 [My Creations]
 ────────────────────────────────────
 💡 **Collaboard**: 
-   - [(https://github.com/preyum/Collaboard)]
+   - [https://github.com/preyum/Collaboard]
 
-💡 **Project 2**: 
+💡 **Educational Platform**: 
    - [https://github.com/preyum/edtech]
-
 
 [End of Line]
 ────────────────────────────────────
